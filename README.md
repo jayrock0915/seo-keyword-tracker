@@ -1,6 +1,7 @@
 # SEO Keyword Tracker 📊
 
-A Python-based keyword interest tracker that pulls real-time search trend data from Google Trends using the `pytrends` API and exports it to a CSV file.
+A Python-based keyword interest tracker that pulls real-time search trend data...
+
 
 ## 🔧 Features
 - Tracks interest over time for any keyword (e.g., "AI", "NBA", "Taylor Swift", etc.)
